@@ -7,11 +7,11 @@ There are four GitHub projects relevant to the most recent work on [ISNCSCI](htt
 - [ionic-app](https://github.com/praxis-isncsci/ionic-app)
 - [public-site](https://github.com/praxis-isncsci/public-site)
 
-## praxis-isncsci/algorithm 
+## [praxis-isncsci/algorithm](https://github.com/praxis-isncsci/algorithm) 
 
 The algorithm project contains the ISNCSCI Algorithm code which is used in the calculations and classification on spinal coord injuries. This is a library meant for developers to use in their own projects and interfaces to automate the classification of ISNCSCI exams. The library is published as an [NPM package](https://www.npmjs.com/package/isncsci?activeTab=readme). 
 
-## praxis-isncsci/ui 
+## [praxis-isncsci/ui](https://github.com/praxis-isncsci/ui)
 
 This project contains a collection of web components, icons, and styles that can be used to build interfaces to classify ISNCSCI exams.
 A component in this library is a web application that serves as an example on how the components can be used to build a fully responsive app. 
@@ -24,12 +24,12 @@ This project has GitHub actions that automatically publish the code to the follo
 - [NPM package](https://www.npmjs.com/package/isncsci-ui) - The UI library is published to NPM so that developers can add it to their own projects.
 - [Dev site](https://brave-meadow-05543dc10.4.azurestaticapps.net) - It gets updated on every commit to `main` as part of the continous integration process. It is used for testing the sample web app built with the ui components in this repository.
 
-## praxis-isncsci/ionic-app
+## [praxis-isncsci/ionic-app](https://github.com/praxis-isncsci/ionic-app)
 
 **Ionic** app for the distribution of the ISNCSCI Calculator on the **Apple** and **Google** app stores.
 It uses the `Vue` framework and imports the **NPM** packages for the **algorithm** and **ui** libraries.
 
-## praxis-isncsci/public-site
+## [praxis-isncsci/public-site](https://github.com/praxis-isncsci/public-site)
 
 No much has been added to this repository yet.
 It will be used for the development of the public site which will replace the current **.NET** implementation for https://www.isncscialgorithm.com/
